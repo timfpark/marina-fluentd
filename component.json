@@ -1,0 +1,7 @@
+{
+    "name": "fluentd",
+    "type": "helm",
+    "repo": "https://github.com/helm/charts",
+    "path": "stable/fluentd-elasticsearch",
+    "subcomponents": []
+}
